@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Background Check Services</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <h1>Moneta Checks</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home" class="hero">
+        <h2>Trusted Background Check Services</h2>
+        <p>Fast, reliable, and comprehensive screening for your peace of mind.</p>
+        <a href="#services" class="btn">Learn More</a>
+    </section>
+
+    <section id="services">
+        <h2>Our Services</h2>
+        <div class="service-list">
+            <div class="service-item">
+                <h3>Employment Screening</h3>
+                <p>Verify work history and credentials for new hires.</p>
+            </div>
+            <div class="service-item">
+                <h3>Tenant Screening</h3>
+                <p>Ensure you're renting to reliable tenants.</p>
+            </div>
+            <div class="service-item">
+                <h3>Criminal Records Check</h3>
+                <p>Access national and local criminal records.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="
